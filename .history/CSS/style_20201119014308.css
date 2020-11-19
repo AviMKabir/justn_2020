@@ -1,0 +1,31 @@
+@font-face {
+    font-family: annonce;
+    src: url(../fonts/annonce_w01_regular-webfont.woff);
+}
+
+@font-face {
+    font-family: textanArrow;
+    src: url(../fonts/textanarrow-regular-webfont.woff);
+}
+
+@font-face {
+    font-family: textanArrowIt;
+    src: url(../fonts/textanarrow-it-webfont.woff);
+}
+
+a:hover {
+    color: forestgreen;
+    text-decoration: none;
+}
+
+.navbar-brand-new {
+    font-family: 'annonce', Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    color: #5E300E;
+}
+
+.nav-link-new {
+    font-family: 'textanArrow', Arial, Helvetica, sans-serif;
+    font-size: .7rem;
+    color: #5E300E;
+}

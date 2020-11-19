@@ -1,0 +1,79 @@
+@font-face {
+    font-family: annonce;
+    src: url(../fonts/annonce_w01_regular-webfont.woff);
+}
+
+@font-face {
+    font-family: textanArrow;
+    src: url(../fonts/textanarrow-regular-webfont.woff);
+}
+
+@font-face {
+    font-family: textanArrowIt;
+    src: url(../fonts/textanarrow-it-webfont.woff);
+}
+
+a {
+    -o-transition: .5s;
+    -ms-transition: .5s;
+    -moz-transition: .5s;
+    -webkit-transition: .5s;
+    /* ...and now for the proper property */
+    transition: .5s;
+}
+
+a:hover {
+    color: #014421;
+    text-decoration: none;
+}
+
+.navbar-brand-new {
+    font-family: 'annonce', Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    color: #5E300E;
+}
+
+.nav-link-new {
+    font-family: 'textanArrow', Arial, Helvetica, sans-serif;
+    font-size: .7rem;
+    color: #5E300E;
+}
+
+.dropdown-menu {
+    position: absolute;
+    top: 100%;
+    left: 0;
+    z-index: 1000;
+    display: none;
+    float: left;
+    min-width: 10rem;
+    padding: .5rem 0;
+    margin: .125rem 0 0;
+    font-size: 1rem;
+    color: #212529;
+    text-align: left;
+    list-style: none;
+    background-color: #fff;
+    background-clip: padding-box;
+    border: none !important;
+    border-radius: .25rem;
+}
+
+.dropdown-menu.show {
+    display: block;
+}
+
+.dropdown-item {
+    font-family: 'textanArrowIt', Arial, Helvetica, sans-serif;
+    font-size: .7rem;
+    color: #5E300E;
+}
+
+.dropdown-item:focus, .dropdown-item:hover {
+    color: #014421 !important;
+    background: none !important;
+}
+
+.nav-pad {
+    padding: 15px 0;
+}

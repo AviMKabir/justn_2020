@@ -1,0 +1,15 @@
+@font-face {
+    font-family: annonce;
+    src: url(../fonts/annonce_w01_regular-webfont.woff);
+}
+
+@font-face {
+    font-family: textanArrow;
+    src: url(../fonts/textanarrow-regular-webfont.woff);
+}
+
+@font-face {
+    font-family: textanArrowIt;
+    src: url(../fonts/textanarrow-it-webfont.woff);
+}
+
