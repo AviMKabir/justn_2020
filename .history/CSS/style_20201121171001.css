@@ -27,10 +27,6 @@ a:hover {
     text-decoration: none;
 }
 
-img {
-    margin: 0 auto;
-}
-
 .navbar-brand-new {
     font-family: 'annonce', Arial, Helvetica, sans-serif;
     font-size: 1.5rem;
@@ -41,14 +37,12 @@ img {
     font-family: 'textanArrow', Arial, Helvetica, sans-serif;
     font-size: .7rem;
     color: #5E300E;
-    letter-spacing: .2em;
 }
 
 .nav-link-new-2 {
     font-family: 'textanArrow', Arial, Helvetica, sans-serif;
     font-size: 1rem;
     color: #5E300E;
-    letter-spacing: .2em;
 }
 
 .dropdown-menu {
@@ -100,20 +94,7 @@ img {
     border: none !important;
 }
 
-.slideshow-bump {
-    margin-top: 25px;
-}
 
-.controls-new {
-    font-family: 'textanArrow', Arial, Helvetica, sans-serif;
-    font-size: .8rem;
-    color: #5E300E;
-    letter-spacing: .2em;
-}
-
-.controls{
-    margin-top: 5px;
-}
 
 @media (min-width: 576px) {}
 
@@ -126,7 +107,6 @@ img {
         font-family: 'textanArrowIt', Arial, Helvetica, sans-serif;
         font-size: 1rem;
         color: #5E300E;
-        letter-spacing: .2em;
     }
     .dropdown-menu.show {
         display: block;
@@ -136,13 +116,11 @@ img {
         font-family: 'textanArrow', Arial, Helvetica, sans-serif;
         font-size: 1rem;
         color: #5E300E;
-        letter-spacing: .2em;
     }
     .nav-link-new-active {
         font-family: 'textanArrow', Arial, Helvetica, sans-serif;
         font-size: 1rem;
         color: #014421;
-        letter-spacing: .2em;
     }
 }
 

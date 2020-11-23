@@ -111,10 +111,6 @@ img {
     letter-spacing: .2em;
 }
 
-.controls{
-    margin-top: 5px;
-}
-
 @media (min-width: 576px) {}
 
 @media (max-width: 768px) {

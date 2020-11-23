@@ -41,14 +41,12 @@ img {
     font-family: 'textanArrow', Arial, Helvetica, sans-serif;
     font-size: .7rem;
     color: #5E300E;
-    letter-spacing: .2em;
 }
 
 .nav-link-new-2 {
     font-family: 'textanArrow', Arial, Helvetica, sans-serif;
     font-size: 1rem;
     color: #5E300E;
-    letter-spacing: .2em;
 }
 
 .dropdown-menu {
@@ -106,13 +104,9 @@ img {
 
 .controls-new {
     font-family: 'textanArrow', Arial, Helvetica, sans-serif;
-    font-size: .8rem;
+    font-size: .9rem;
     color: #5E300E;
     letter-spacing: .2em;
-}
-
-.controls{
-    margin-top: 5px;
 }
 
 @media (min-width: 576px) {}
@@ -142,7 +136,7 @@ img {
         font-family: 'textanArrow', Arial, Helvetica, sans-serif;
         font-size: 1rem;
         color: #014421;
-        letter-spacing: .2em;
+        
     }
 }
 
