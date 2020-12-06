@@ -146,9 +146,6 @@ img {
         letter-spacing: .2em;
     }
     .img-wide {
-        object-fit: cover;
-        height: 100%;
-        width: 100%;
        
     }
 }

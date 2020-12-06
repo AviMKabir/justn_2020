@@ -145,11 +145,10 @@ img {
         color: #014421;
         letter-spacing: .2em;
     }
-    .img-wide {
+    img {
         object-fit: cover;
-        height: 100%;
         width: 100%;
-       
+        max-height: 65vh;
     }
 }
 
